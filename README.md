@@ -1,2 +1,7 @@
-# Idearchivex
-My hub for tinkering, freerunning ideas, and trying new things.
+# Welcome to IDEARCHIVEX!
+
+This is the home of all my spontaneous snippets and mad computer science experiments. Hope you enjoy!
+
+
+
+
