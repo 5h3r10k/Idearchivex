@@ -12,4 +12,4 @@ Check out my profile [here](https://github.com/5h3r10k)
 
 - Longest Palindromic Substring
   - [Code](Snippets/LongestPalindrome.py)
-  - [Step-by-step notebook](Snippets/LongestPalindrome.ipynb)
+  - [Step-by-step notebook](Snippets/PalindromeFinder.ipynb)
