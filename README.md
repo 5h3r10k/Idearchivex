@@ -9,3 +9,7 @@ Check out my profile [here](https://github.com/5h3r10k)
 <br>
 
 ## Contents
+
+- Longest Palindromic Substring
+  - [Code](Snippets/LongestPalindrome.py)
+  - [Step-by-step notebook](Snippets/PalindromeFinder.ipynb)
